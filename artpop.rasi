@@ -1,0 +1,14 @@
+configuration {
+    background: #1a001fdd;
+    background-opacity: 0.85;
+    border: #ff00ff;
+    border-width: 2;
+    border-radius: 14px;
+    font: "Playfair Display 12";
+    blurred-background: true;
+    blur-method: "hrgba";
+    blur-strength: 12;
+}
+window { background: transparent; border: transparent; border-radius: 14px; }
+element { border-radius: 10px; padding: 10px; }
+element selected { background: #5a00ffbb; }
